@@ -1,0 +1,2 @@
+\contentsline {chapter}{\numberline {1}State Space Analysis}{3}{chapter.1}
+\contentsline {chapter}{\numberline {2}Pole Placement and Observer Design}{44}{chapter.2}

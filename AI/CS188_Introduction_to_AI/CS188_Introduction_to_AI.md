@@ -1,0 +1,7 @@
+## Introduction to AI
+1. [Intro to AI](./1_Intro_to_AI/1_Intro_to_AI.jpg)
+2. [Uninformed Search](./2_Uninformed_Search/2_Uninformed_Search.pdf)
+3. [Informed Search](./3_Informed_Search/3_Informed_Search.pdf)
+
+#### Meta
+* Status: "Ongoing"

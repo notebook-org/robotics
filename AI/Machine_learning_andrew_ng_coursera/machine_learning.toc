@@ -1,0 +1,5 @@
+\contentsline {chapter}{\numberline {1}Introduction}{3}{chapter.1}
+\contentsline {chapter}{\numberline {2}Linear Regression With One Variable}{6}{chapter.2}
+\contentsline {chapter}{\numberline {3}Linear Regression With Multiple Variable}{11}{chapter.3}
+\contentsline {chapter}{\numberline {4}Logistic Regression}{18}{chapter.4}
+\contentsline {chapter}{\numberline {5}Regularization}{24}{chapter.5}

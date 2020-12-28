@@ -1,0 +1,108 @@
+\documentclass[11pt]{report}
+
+% For including image file
+\usepackage{graphicx, color}
+
+% For including collection of image
+%\usepackage{subcaption}
+
+% For generating hyper links
+
+% For coloring text
+\usepackage{xcolor}
+
+%\usepackage{hyperref}
+\usepackage[linkbordercolor=white, colorlinks=true, urlcolor=black, linkcolor=black]{hyperref}
+
+% Margin of the page
+\usepackage[top=0.5in, bottom=1in, left=1in, right=1in]{geometry}
+
+%For adding nomenclature
+%\usepackage{nomencl}
+%\makenomenclature
+%\renewcommand{\nomname}{Annotation}
+
+% For cover page tikz image 
+%\usepackage{tikz}
+%\usetikzlibrary{calc}
+
+% For including a piece of code
+%\usepackage{listings}
+
+% Images folder
+%\graphicspath{{Images/}}
+
+\usepackage{titlesec}
+
+\titleformat{\chapter}[display]
+{\normalfont\Large\filcenter\sffamily}
+{\vspace*{\fill}
+ \titlerule[1pt]%
+ \vspace{1pt}%
+ \titlerule
+ \vspace{1pc}%
+ \LARGE\MakeUppercase{\chaptertitlename}~\thechapter}
+{1pc}
+{\titlerule\Huge}
+[\vspace*{\fill}\newpage]
+
+\titlespacing*{\chapter}{0pt}{0pt}{0pt}
+
+\titleformat{name=\chapter,numberless}[display]
+{\normalfont\Large\filcenter\sffamily}
+{}
+{0pt}
+{\titlerule[1pt]\Huge}
+[\titlerule]
+
+\usepackage{pdfpages}
+
+\begin{document}
+
+\tableofcontents
+
+\includepdf[page=-]{./raw_files/cover.pdf}
+
+\chapter{Modeling in State Space}
+\includepdf[page=-]{./raw_files/1.pdf}
+
+\chapter{Control System Analysis in State Space}
+\includepdf[page=-]{./raw_files/2.pdf}
+
+\section{Appendix 1: Controllable Canonical Form}
+\includepdf[page=-]{./raw_files/2_a.pdf}
+
+\section{Appendix 2: Observable Canonical Form}
+\includepdf[page=-]{./raw_files/2_b.pdf}
+
+\section{Appendix 3: Diagonal Canonical Form}
+\includepdf[page=-]{./raw_files/2_c.pdf}
+
+\section{Appendix 4: Jordan Canonical Form}
+\includepdf[page=-]{./raw_files/2_d.pdf}
+
+\section{Appendix 5: Correlation Between Transfer Function and State Space Equation}
+\includepdf[page=-]{./raw_files/2_e.pdf}
+
+\section{Appendix 6: (1)}
+\includepdf[page=-]{./raw_files/2_f.pdf}
+
+\section{Appendix 7: (2)}
+\includepdf[page=-]{./raw_files/2_g.pdf}
+
+\section{Appendix 8: (3)}
+\includepdf[page=-]{./raw_files/2_h.pdf}
+
+\section{Appendix 9: (4)}
+\includepdf[page=-]{./raw_files/2_i.pdf}
+
+\section{Appendix 10: (5)}
+\includepdf[page=-]{./raw_files/2_j.pdf}
+
+\chapter{Control System Design in State Space}
+\includepdf[page=-]{./raw_files/3.pdf}
+
+\chapter{Robust Control Theory}
+\includepdf[page=-]{./raw_files/4.pdf}
+
+\end{document}

@@ -1,0 +1,14 @@
+\contentsline {chapter}{\numberline {1}Modeling in State Space}{3}{chapter.1}
+\contentsline {chapter}{\numberline {2}Control System Analysis in State Space}{12}{chapter.2}
+\contentsline {section}{\numberline {2.1}Appendix 1: Controllable Canonical Form}{42}{section.2.1}
+\contentsline {section}{\numberline {2.2}Appendix 2: Observable Canonical Form}{46}{section.2.2}
+\contentsline {section}{\numberline {2.3}Appendix 3: Diagonal Canonical Form}{50}{section.2.3}
+\contentsline {section}{\numberline {2.4}Appendix 4: Jordan Canonical Form}{53}{section.2.4}
+\contentsline {section}{\numberline {2.5}Appendix 5: Correlation Between Transfer Function and State Space Equation}{57}{section.2.5}
+\contentsline {section}{\numberline {2.6}Appendix 6: (1)}{60}{section.2.6}
+\contentsline {section}{\numberline {2.7}Appendix 7: (2)}{62}{section.2.7}
+\contentsline {section}{\numberline {2.8}Appendix 8: (3)}{64}{section.2.8}
+\contentsline {section}{\numberline {2.9}Appendix 9: (4)}{67}{section.2.9}
+\contentsline {section}{\numberline {2.10}Appendix 10: (5)}{70}{section.2.10}
+\contentsline {chapter}{\numberline {3}Control System Design in State Space}{74}{chapter.3}
+\contentsline {chapter}{\numberline {4}Robust Control Theory}{120}{chapter.4}

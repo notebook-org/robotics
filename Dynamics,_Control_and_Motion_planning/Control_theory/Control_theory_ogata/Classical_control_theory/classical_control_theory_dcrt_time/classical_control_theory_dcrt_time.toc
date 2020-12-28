@@ -1,0 +1,4 @@
+\contentsline {chapter}{\numberline {1}Introduction to Discrete-Time Control System}{3}{chapter.1}
+\contentsline {chapter}{\numberline {2}The Z Transform}{18}{chapter.2}
+\contentsline {chapter}{\numberline {3}Z Plane Analysis of Discrete Time Control System}{43}{chapter.3}
+\contentsline {chapter}{\numberline {4}Design of Discrete Time Control System By Conventional Method}{89}{chapter.4}
