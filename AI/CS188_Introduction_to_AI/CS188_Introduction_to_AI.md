@@ -3,3 +3,4 @@
 2. [Uninformed Search](./2_Uninformed_Search/2_Uninformed_Search.pdf)
 3. [Informed Search](./3_Informed_Search/3_Informed_Search.pdf)
 4. [CSP Part 1](./4_CSP_1/4_CSP_1.pdf)
+5. [CSP Part 2](./5_CSP_2/5_CSP_2.pdf)
