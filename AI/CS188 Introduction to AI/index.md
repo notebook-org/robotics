@@ -1,0 +1,10 @@
+# CS188 Introduction to AI
+1. [Intro to AI](1%20Intro%20to%20AI/1%20Intro%20to%20AI.pdf)
+2. [Search: Uninformed Search](2%20Search:%20Uninformed%20Search/2%20Search:%20Uninformed%20Search.pdf)
+3. [Search: Informed Search](3%20Search:%20Informed%20Search/3%20Search:%20Informed%20Search.pdf)
+4. [CSP: Part1](4%20CSP:%20Part1/4%20CSP:%20Part1.pdf)
+5. [CSP: Part2](5%20CSP:%20Part2/5%20CSP:%20Part2.pdf)
+6. [Game Tree: Adversarial Search](6%20Game%20Tree:%20Adversarial%20Search/6%20Game%20Tree:%20Adversarial%20Search.pdf)
+7. [Game Tree: Uncertinity and Utilities](7%20Game%20Tree:%20Uncertinity%20and%20Utilities/7%20Game%20Tree:%20Uncertinity%20and%20Utilities.pdf)
+8. [MDP: Part1](8%20MDP:%20Part1/8%20MDP:%20Part1.pdf)
+9. [MDP: Part2](9%20MDP:%20Part2/9%20MDP:%20Part2.pdf)
