@@ -2,3 +2,7 @@
 2. [Image Classification Pipeline](2%20Image%20Classification%20Pipeline/2%20Image%20Classification%20Pipeline.pdf)
 3. [Loss Function and Optimization](3%20Loss%20Function%20and%20Optimization/3%20Loss%20Function%20and%20Optimization.pdf)
 4. [Backpropagation and Neural Network](4%20Backpropagation%20and%20Neural%20Network/4%20Backpropagation%20and%20Neural%20Network.pdf)
+5. [Convolutional Neural Network](5%20Convolutional%20Neural%20Network/5%20Convolutional%20Neural%20Network.pdf)
+6. [Training Neural Networks: Part1](6%20Training%20Neural%20Networks:%20Part1/6%20Training%20Neural%20Networks:%20Part1.pdf)
+7. [Training Neural Networks: Part2](7%20Training%20Neural%20Networks:%20Part2/7%20Training%20Neural%20Networks:%20Part2.pdf)
+8. [Deep Learning Softwares](8%20Deep%20Learning%20Softwares/8%20Deep%20Learning%20Softwares.pdf)
