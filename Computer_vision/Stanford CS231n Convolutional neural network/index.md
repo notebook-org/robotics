@@ -6,3 +6,6 @@
 6. [Training Neural Networks: Part1](6%20Training%20Neural%20Networks:%20Part1/6%20Training%20Neural%20Networks:%20Part1.pdf)
 7. [Training Neural Networks: Part2](7%20Training%20Neural%20Networks:%20Part2/7%20Training%20Neural%20Networks:%20Part2.pdf)
 8. [Deep Learning Softwares](8%20Deep%20Learning%20Softwares/8%20Deep%20Learning%20Softwares.pdf)
+9. [CNN Architecture](9%20CNN%20Architecture/9%20CNN%20Architecture.pdf)
+10. [Recurrent Neural Network](10%20Recurrent%20Neural%20Network/10%20Recurrent%20Neural%20Network.pdf)
+11. [Detection, Segmentation and Localization](11%20Detection,%20Segmentation%20and%20Localization/11%20Detection,%20Segmentation%20and%20Localization.pdf)
