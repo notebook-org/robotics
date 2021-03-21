@@ -8,3 +8,6 @@
 7. [Game Tree: Uncertinity and Utilities](7%20Game%20Tree:%20Uncertinity%20and%20Utilities/7%20Game%20Tree:%20Uncertinity%20and%20Utilities.pdf)
 8. [MDP: Part1](8%20MDP:%20Part1/8%20MDP:%20Part1.pdf)
 9. [MDP: Part2](9%20MDP:%20Part2/9%20MDP:%20Part2.pdf)
+    * [MDP Feynman Techinque](./MDP%20Feynman%20Techinque/MDP%20Feynman%20Techinque.pdf)
+10. [RL: Part1](10%20RL:%20Part1/10%20RL:%20Part1.pdf)
+11. [RL: Part2](11%20RL:%20Part2/11%20RL:%20Part2.pdf)
