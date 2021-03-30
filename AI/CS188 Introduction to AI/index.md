@@ -11,3 +11,5 @@
     * [MDP Feynman Techinque](./MDP%20Feynman%20Techinque/MDP%20Feynman%20Techinque.pdf)
 10. [RL: Part1](10%20RL:%20Part1/10%20RL:%20Part1.pdf)
 11. [RL: Part2](11%20RL:%20Part2/11%20RL:%20Part2.pdf)
+12. [Probability](12%20Probability/12%20Probability.pdf)
+13. [BNs: Representation](13%20BNs:%20Representation/13%20BNs:%20Representation.pdf)
