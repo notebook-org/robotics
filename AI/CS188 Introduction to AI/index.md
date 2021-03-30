@@ -13,3 +13,8 @@
 11. [RL: Part2](11%20RL:%20Part2/11%20RL:%20Part2.pdf)
 12. [Probability](12%20Probability/12%20Probability.pdf)
 13. [BNs: Representation](13%20BNs:%20Representation/13%20BNs:%20Representation.pdf)
+14. [BNs: Independence](14%20BNs:%20Independence/14%20BNs:%20Independence.pdf)
+15. [BNs: Inference](15%20BNs:%20Inference/15%20BNs:%20Inference.pdf)
+16. [BNs: Sampling](16%20BNs:%20Sampling/16%20BNs:%20Sampling.pdf)
+17. [Decision Network and Value of Information](17%20Decision%20Network%20and%20Value%20of%20Information/17%20Decision%20Network%20and%20Value%20of%20Information.pdf)
+18. [Hidden Markov Models](18%20Hidden%20Markov%20Models/18%20Hidden%20Markov%20Models.pdf)
