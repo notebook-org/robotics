@@ -9,3 +9,4 @@
 9. [CNN Architecture](9%20CNN%20Architecture/9%20CNN%20Architecture.pdf)
 10. [Recurrent Neural Network](10%20Recurrent%20Neural%20Network/10%20Recurrent%20Neural%20Network.pdf)
 11. [Detection, Segmentation and Localization](11%20Detection,%20Segmentation%20and%20Localization/11%20Detection,%20Segmentation%20and%20Localization.pdf)
+12. [FM: Multi Class SVM Loss](12%20FM:%20Multi%20Class%20SVM%20Loss/12%20FM:%20Multi%20Class%20SVM%20Loss.pdf)
