@@ -10,3 +10,5 @@
 10. [Recurrent Neural Network](10%20Recurrent%20Neural%20Network/10%20Recurrent%20Neural%20Network.pdf)
 11. [Detection, Segmentation and Localization](11%20Detection,%20Segmentation%20and%20Localization/11%20Detection,%20Segmentation%20and%20Localization.pdf)
 12. [FM: Multi Class SVM Loss](12%20FM:%20Multi%20Class%20SVM%20Loss/12%20FM:%20Multi%20Class%20SVM%20Loss.pdf)
+13. [FM: Softmax Loss](13%20FM:%20Softmax%20Loss/13%20FM:%20Softmax%20Loss.pdf)
+14. [FM: Two Layer Neural Net: Loss and Gradient](14%20FM:%20Two%20Layer%20Neural%20Net:%20Loss%20and%20Gradient/14%20FM:%20Two%20Layer%20Neural%20Net:%20Loss%20and%20Gradient.pdf)
