@@ -1,0 +1,6 @@
+Order:
+- Multi Class SVM Loss
+- Softmax Loss
+- 'Two Layer Neural-Net: Loss and Gradient'
+- Optimization
+Ordered: false
