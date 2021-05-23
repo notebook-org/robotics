@@ -1,9 +1,0 @@
-Order:
-- Multi Class SVM Loss
-- Softmax Loss
-- 'Two Layer Neural-Net: Loss and Gradient'
-- Optimization
-- Batch Normalization
-- Dropout
-- Convolutional Layer
-Ordered: false
