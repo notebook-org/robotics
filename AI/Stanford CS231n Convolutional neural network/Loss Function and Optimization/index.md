@@ -1,4 +1,6 @@
 # Loss Function and Optimization
+1. [Multi Class SVM Loss](./Multi%20Class%20SVM%20Loss/index.md)
+2. [Softmax Loss](./Softmax%20Loss/index.md)
 
 ## HandWritten Notes
 <p align="center">

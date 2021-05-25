@@ -1,2 +1,4 @@
-Order: []
+Order:
+- Convolutional Layer
+- Max Pooling
 Ordered: true

@@ -1,5 +1,8 @@
 # PyTorch Tutorial
 
+## References
+* [Tutorial Link](https://github.com/jcjohnson/pytorch-examples/blob/master/README.md)
+
 ## HandWritten Notes
 <p align="center">
 <img src="./1.jpg" alt="Page 1" width="800"/>

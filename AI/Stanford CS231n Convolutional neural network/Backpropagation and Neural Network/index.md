@@ -1,4 +1,5 @@
 # Backpropagation and Neural Network
+1. [Two Layer Neural-Net: Loss and Gradient](./Two%20Layer%20Neural-Net:%20Loss%20and%20Gradient/index.md)
 
 ## HandWritten Notes
 <p align="center">

@@ -1,6 +1,4 @@
-# Training Neural Networks: Part1
-1. [Batch Normalization](./Batch%20Normalization/index.md)
-2. [Dropout](./Dropout/index.md)
+# Introduction to Reinforcement Learning
 
 ## HandWritten Notes
 <p align="center">
@@ -11,4 +9,8 @@
 <img src="./5.jpg" alt="Page 5" width="800"/>
 <img src="./6.jpg" alt="Page 6" width="800"/>
 <img src="./7.jpg" alt="Page 7" width="800"/>
+<img src="./8.jpg" alt="Page 8" width="800"/>
+<img src="./9.jpg" alt="Page 9" width="800"/>
+<img src="./10.jpg" alt="Page 10" width="800"/>
+<img src="./11.jpg" alt="Page 11" width="800"/>
 <p\>

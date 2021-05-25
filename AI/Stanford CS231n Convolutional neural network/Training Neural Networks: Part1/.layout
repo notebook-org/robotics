@@ -1,2 +1,4 @@
-Order: []
+Order:
+- Batch Normalization
+- Dropout
 Ordered: true

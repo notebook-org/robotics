@@ -1,4 +1,6 @@
 # Convolutional Neural Network
+1. [Convolutional Layer](./Convolutional%20Layer/index.md)
+2. [Max Pooling](./Max%20Pooling/index.md)
 
 ## HandWritten Notes
 <p align="center">

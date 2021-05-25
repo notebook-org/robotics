@@ -1,2 +1,4 @@
-Order: []
+Order:
+- Multi Class SVM Loss
+- Softmax Loss
 Ordered: true

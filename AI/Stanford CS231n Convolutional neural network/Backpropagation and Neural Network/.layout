@@ -1,2 +1,3 @@
-Order: []
+Order:
+- 'Two Layer Neural-Net: Loss and Gradient'
 Ordered: true

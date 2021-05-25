@@ -9,4 +9,3 @@
 8. [CNN Architecture](./CNN%20Architecture/index.md)
 9. [Recurrent Neural Network](./Recurrent%20Neural%20Network/index.md)
 10. [Detection, Segmentation and Localization](./Detection,%20Segmentation%20and%20Localization/index.md)
-11. [Feynman Technique](./Feynman%20Technique/index.md)

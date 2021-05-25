@@ -1,4 +1,5 @@
 # Training Neural Networks: Part2
+1. [Optimization](./Optimization/index.md)
 
 ## HandWritten Notes
 <p align="center">
