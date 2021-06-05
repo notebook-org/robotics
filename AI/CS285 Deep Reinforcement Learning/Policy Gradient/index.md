@@ -1,4 +1,4 @@
-# Introduction to Reinforcement Learning
+# Policy Gradient
 
 ## HandWritten Notes
 <p align="center">
@@ -17,8 +17,4 @@
 <img src="./13.jpg" alt="Page 13" width="800"/>
 <img src="./14.jpg" alt="Page 14" width="800"/>
 <img src="./15.jpg" alt="Page 15" width="800"/>
-<img src="./16.jpg" alt="Page 16" width="800"/>
-<img src="./17.jpg" alt="Page 17" width="800"/>
-<img src="./18.jpg" alt="Page 18" width="800"/>
-<img src="./19.jpg" alt="Page 19" width="800"/>
 <p\>
