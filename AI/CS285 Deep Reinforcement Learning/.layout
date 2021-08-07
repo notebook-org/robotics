@@ -3,4 +3,8 @@ Order:
 - Supervised Learning of Behaviors
 - Introduction to Reinforcement Learning
 - Policy Gradient
+- Actor-Critic Algorithm
+- Value Function Methods
+- Deep RL with Q Function
+- Advanced Policy Gradient
 Ordered: true

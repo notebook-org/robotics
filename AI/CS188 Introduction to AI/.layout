@@ -1,0 +1,12 @@
+Order:
+- Intro to AI
+- Search
+- CSP
+- Game Tree
+- MDP
+- RL
+- Probability
+- Bayes Nets
+- Decision Network and Value of Information
+- Hidden Markov Models
+Ordered: true

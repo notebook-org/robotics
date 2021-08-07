@@ -1,3 +1,7 @@
 Order:
+- CS188 Introduction to AI
+- CS229 Introduction to Machine Learning
+- CS231n Convolutional neural network
 - CS285 Deep Reinforcement Learning
+- CS294 Deep UnSupervised Learning
 Ordered: true
