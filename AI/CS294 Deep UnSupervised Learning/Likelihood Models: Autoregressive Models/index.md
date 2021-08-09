@@ -1,4 +1,8 @@
 # Likelihood Models: Autoregressive Models
+1. [Revisit](./Revisit/index.md)
+
+## Appendices
+* [Product of distribution is a distribution](./Appendices/Product%20of%20distribution%20is%20a%20distribution.md)
 
 # HandWritten Notes
 <p align="center">

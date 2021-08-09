@@ -1,0 +1,9 @@
+Order:
+- Histogram and Point Operators
+- Binary Images
+- Local Operators
+- Edge Detection
+- Geometric Transformation
+- 'Visual Features: Computing Keypoints'
+- 'Visual Features: Feature Descriptors'
+Ordered: true
