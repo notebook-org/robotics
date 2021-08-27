@@ -5,3 +5,4 @@
 4. [CSW182 Designing, Visualizing and Understanding Deep Neural Networks](./CSW182%20Designing,%20Visualizing%20and%20Understanding%20Deep%20Neural%20Networks/index.md)
 5. [CS285 Deep Reinforcement Learning](./CS285%20Deep%20Reinforcement%20Learning/index.md)
 6. [CS294 Deep UnSupervised Learning](./CS294%20Deep%20UnSupervised%20Learning/index.md)
+7. [Research Paper Notes](./Research%20Paper%20Notes/index.md)

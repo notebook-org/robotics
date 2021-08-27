@@ -3,4 +3,4 @@
 2. [Part 2](./Part%202/index.md)
 
 ## Appendices
-* [Revisits](./Appendices/Revisits.md)
+* [Revisit](./Appendices/Revisit/index.md)

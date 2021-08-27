@@ -1,8 +1,4 @@
-# Likelihood Models: Autoregressive Models
-
-## Appendices
-* [Product of distribution is a distribution](./Appendices/Product%20of%20distribution%20is%20a%20distribution/index.md)
-* [Revisit](./Appendices/Revisit/index.md)
+# Transformers
 
 # HandWritten Notes
 <p align="center">
@@ -18,9 +14,4 @@
 <img src="./10.jpg" alt="Page 10"/>
 <img src="./11.jpg" alt="Page 11"/>
 <img src="./12.jpg" alt="Page 12"/>
-<img src="./13.jpg" alt="Page 13"/>
-<img src="./14.jpg" alt="Page 14"/>
-<img src="./15.jpg" alt="Page 15"/>
-<img src="./16.jpg" alt="Page 16"/>
-<img src="./17.jpg" alt="Page 17"/>
 <p\>

@@ -1,4 +1,4 @@
-# Recurrent Neural Network
+# Sequence to Sequence Models
 
 # HandWritten Notes
 <p align="center">
@@ -12,5 +12,4 @@
 <img src="./8.jpg" alt="Page 8"/>
 <img src="./9.jpg" alt="Page 9"/>
 <img src="./10.jpg" alt="Page 10"/>
-<img src="./11.jpg" alt="Page 11"/>
 <p\>

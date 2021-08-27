@@ -1,0 +1,6 @@
+# Product of distribution is a distribution
+
+# HandWritten Notes
+<p align="center">
+<img src="./1.jpg" alt="Page 1"/>
+<p\>

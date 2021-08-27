@@ -3,4 +3,4 @@
 2. [Kernels](./Kernels/index.md)
 
 ## Appendices
-* [Revisit](./Appendices/Revisit.md)
+* [Revisit](./Appendices/Revisit/index.md)
