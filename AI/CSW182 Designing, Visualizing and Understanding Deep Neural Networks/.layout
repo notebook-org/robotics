@@ -2,4 +2,5 @@ Order:
 - Recurrent Networks
 - Sequence to Sequence Models
 - Transformers
+- 'Application: NLP'
 Ordered: true
