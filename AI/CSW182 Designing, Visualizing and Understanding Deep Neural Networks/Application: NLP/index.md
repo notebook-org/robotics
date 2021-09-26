@@ -1,5 +1,8 @@
 # Application: NLP
 
+## Appendices
+* [Word Embedding forward and backward pass](./Appendices/Word%20Embedding%20forward%20and%20backward%20pass/index.md)
+
 # HandWritten Notes
 <p align="center">
 <img src="./1.jpg" alt="Page 1"/>

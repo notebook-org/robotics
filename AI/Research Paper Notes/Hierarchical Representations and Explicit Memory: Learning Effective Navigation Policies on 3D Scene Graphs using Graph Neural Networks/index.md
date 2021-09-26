@@ -1,9 +1,7 @@
-# PyTorch Tutorial
-1. [distributions](./distributions/index.md)
-2. [revisit](./revisit/index.md)
+# Hierarchical Representations and Explicit Memory: Learning Effective Navigation Policies on 3D Scene Graphs using Graph Neural Networks
 
 ## References
-* [Tutorial Link](https://github.com/jcjohnson/pytorch-examples/blob/master/README.md)
+* [Paper](https://arxiv.org/abs/2108.01176)
 
 # HandWritten Notes
 <p align="center">

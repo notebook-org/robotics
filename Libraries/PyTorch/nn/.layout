@@ -1,0 +1,6 @@
+Order:
+- parameters
+- utils
+- model.train() and model.eval()
+- register_buffer va register_parameter
+Ordered: true

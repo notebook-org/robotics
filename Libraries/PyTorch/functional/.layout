@@ -1,0 +1,4 @@
+Order:
+- cross_entropy
+- softmax
+Ordered: true

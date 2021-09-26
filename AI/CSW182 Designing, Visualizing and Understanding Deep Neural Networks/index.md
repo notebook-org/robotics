@@ -5,4 +5,5 @@
 4. [Application: NLP](./Application:%20NLP/index.md)
 
 ## Appendices
+* [Revisit: LSTM](./Appendices/Revisit:%20LSTM/index.md)
 * [Revisit: RNN, Attention and Transformer](./Appendices/Revisit:%20RNN,%20Attention%20and%20Transformer/index.md)

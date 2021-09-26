@@ -23,4 +23,6 @@
 <img src="./15.jpg" alt="Page 15"/>
 <img src="./16.jpg" alt="Page 16"/>
 <img src="./17.jpg" alt="Page 17"/>
+<img src="./18.jpg" alt="Page 18"/>
+<img src="./19.jpg" alt="Page 19"/>
 <p\>
