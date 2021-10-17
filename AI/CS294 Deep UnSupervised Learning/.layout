@@ -2,4 +2,5 @@ Order:
 - Introduction
 - 'Likelihood Models: Autoregressive Models'
 - 'Likelihood Models: Flow Models'
+- Latent Variable Models
 Ordered: true
