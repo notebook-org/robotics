@@ -1,0 +1,16 @@
+Order:
+- Introduction, Signal and System
+- Modeling, Linearization
+- 'Analysis 1: Time response, Stability'
+- 'Analysis 2: Diagonalization, Modal coordinates'
+- 'Transfer function 1: Defination and Properties'
+- 'Transfer function 2: Poles and Zeros'
+- 'Analysis of Feedback System 1: Internal stability (root locus)'
+- Frequency response
+- 'Analysis of Feedback System 2: The Nyquist condition'
+- Specification for feedback system
+- PID Control
+- Loop Shaping
+- Implementation issues
+- Robustness
+Ordered: true

@@ -1,4 +1,5 @@
 Order:
 - cross_entropy
 - softmax
+- Softplus
 Ordered: true

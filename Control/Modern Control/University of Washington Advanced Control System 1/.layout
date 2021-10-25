@@ -1,0 +1,8 @@
+Order:
+- Design of linear feedback control system
+- Observers
+- Observer state feedback control
+- Linear Quadratic (LQ) optimal control problem
+- Controllability and Observability
+- Stability
+Ordered: true
