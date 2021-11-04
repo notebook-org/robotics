@@ -1,3 +1,4 @@
 Order:
 - clip_grad_norm_
+- weight_norm
 Ordered: true
