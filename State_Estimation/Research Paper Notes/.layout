@@ -1,4 +1,9 @@
 Order:
 - The TUM VI Benchmark for Evaluating Visual-Inertial Odometry
 - TUM monoVO
+- 'Review of visual odometry: types, approaches, challenges, and applications'
+- 'Visual Odometry (Part 1): The First 30 Years and Fundamentals'
+- 'Visual Odometry (Part 2): Matching, Robustness, and Applications'
+- 'ORB: An efficient alternative to SIFT or SURF'
+- Machine Learning for High-Speed Corner Detection
 Ordered: true

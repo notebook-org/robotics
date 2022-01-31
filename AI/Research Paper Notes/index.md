@@ -5,3 +5,4 @@
 4. [Density Estimation Using REAL NVP](./Density%20Estimation%20Using%20REAL%20NVP/index.md)
 5. [Weight Normalization: A Simple Reparameterization to Accelerate Training of Deep Neural Networks](./Weight%20Normalization:%20A%20Simple%20Reparameterization%20to%20Accelerate%20Training%20of%20Deep%20Neural%20Networks/index.md)
 6. [Glow: Generative Flow with Invertible 1x1 Convolutions](./Glow:%20Generative%20Flow%20with%20Invertible%201x1%20Convolutions/index.md)
+7. [SEAL: Self-supervised Embodied Active Learning using Exploration and 3D Consistency](./SEAL:%20Self-supervised%20Embodied%20Active%20Learning%20using%20Exploration%20and%203D%20Consistency/index.md)
