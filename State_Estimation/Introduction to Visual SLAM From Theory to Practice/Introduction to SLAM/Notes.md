@@ -6,12 +6,12 @@ Many different approaches to slove localization problem:
 
 Sensors:
 1. non-intrusive sensors:
-    1.1. Entirly self contained inside a robot.
-    1.2. Wheel encoder, cameras, laser scaner etc.
+    1. Entirly self contained inside a robot.
+    2. Wheel encoder, cameras, laser scaner etc.
 2. intrusive sensors:
-    2.1. Depends on prepaired environment.
-    2.2. guiding rails, artificial markers etc.
-    2.3. Intrusive sensors can usually locate a robot directly, solving the localization problem in a simple and effective manner.
+    1. Depends on prepaired environment.
+    2. guiding rails, artificial markers etc.
+    3. Intrusive sensors can usually locate a robot directly, solving the localization problem in a simple and effective manner.
 
 ## Monocular Camera
 - Trajectory and map obtained from monocular SLAM estimation will differ from the actual trajectory and map with an unknown factor, which is called the scale.
