@@ -2,4 +2,6 @@ Order:
 - Introduction to SLAM
 - 3D Rigid Body Motion
 - Lie Group and Lie Algebra
+- Camera and Image
+- Nonlinear Optimization
 Ordered: true
