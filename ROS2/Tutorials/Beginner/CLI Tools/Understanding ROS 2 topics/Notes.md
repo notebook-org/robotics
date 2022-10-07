@@ -1,0 +1,1 @@
+- Topic acts a bus for nodes to exchange messages.

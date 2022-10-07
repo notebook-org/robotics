@@ -1,0 +1,1 @@
+- Services are based on a call-and-response model.
