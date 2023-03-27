@@ -1,0 +1,16 @@
+# ETH Zurich Control System 1
+
+1. [Introduction, Signal and System](./1/README.md)
+2. [Modeling, Linearization](./2/README.md)
+3. [Analysis 1: Time response, Stability](./3/README.md)
+4. [Analysis 2: Diagonalization, Modal coordinates](./4/README.md)
+5. [Transfer function 1: Defination and Properties](./5/README.md)
+6. [Transfer function 2: Poles and Zeros](./6/README.md)
+7. [Analysis of Feedback System 1: Internal stability (root locus)](./7/README.md)
+8. [Frequency response](./8/README.md)
+9. [Analysis of Feedback System 2: The Nyquist condition](./9/README.md)
+10. [Specification for feedback system](./10/README.md)
+11. [PID Control](./11/README.md)
+12. [Loop Shaping](./12/README.md)
+13. [Implementation issues](./13/README.md)
+14. [Robustness](./14/README.md)

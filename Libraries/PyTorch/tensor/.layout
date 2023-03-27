@@ -1,7 +1,0 @@
-Order:
-- '*.contiguous()'
-- '*.cuda() vs *.to(cuda)'
-- tensor.item()
-- view
-- scatter
-Ordered: true

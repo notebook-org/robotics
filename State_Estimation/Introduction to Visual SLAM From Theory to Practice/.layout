@@ -1,9 +1,0 @@
-Order:
-- Introduction to SLAM
-- 3D Rigid Body Motion
-- Lie Group and Lie Algebra
-- Camera and Image
-- Nonlinear Optimization
-- 'Visual Odometry: Part 1'
-- 'Filter and Optimization: Part 1'
-Ordered: true

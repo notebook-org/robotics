@@ -1,7 +1,0 @@
-Order:
-- parameters
-- utils
-- model.train() and model.eval()
-- register_buffer va register_parameter
-- Saving and Loading Models
-Ordered: true
